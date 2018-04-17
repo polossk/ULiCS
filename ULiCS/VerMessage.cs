@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Universal.Global
+namespace polossk.Universal.Global
 {
     /// <summary>
     /// 登陆与注册的标准反馈消息

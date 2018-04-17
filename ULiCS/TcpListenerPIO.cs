@@ -7,7 +7,7 @@ using System.Threading;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Universal.Net
+namespace polossk.Universal.Net
 {
     public partial class NetworkStreamP : IDisposable
     {
